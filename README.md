@@ -142,15 +142,19 @@ https://github.com/deekshitha3002/Medicine-Lookup
 
 ### 🏠 Home Page
 
-![Home Page](screenshots/home.png)
+![Home Page](Screenshots/home.png)
+
+---
 
 ### 🔍 Search Results
 
-![Search Results](screenshots/search-results.png)
+![Search Results](Screenshots/search-results.png)
+
+---
 
 ### 🤖 AI Explanation
 
-![AI Explanation](screenshots/ai-explanation.png)
+![AI Explanation](Screenshots/ai-explanation.png)
 
 # 🚀 Future Enhancements
 
